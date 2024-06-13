@@ -1,7 +1,5 @@
 # Products
 
-# Products
-
 Description
 This project is a web application that allows users to add and view products. It is built using React for the frontend, Node.js and Express for the backend, GraphQL to query and manipulate for APIs to connect between Server and Client and MongoDB for the database. The application allows users to add products with a name, description, price, and image, and then view them in a list.
 
